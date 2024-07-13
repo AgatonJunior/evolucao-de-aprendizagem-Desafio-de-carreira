@@ -12,3 +12,4 @@ foi através da Cubos. então  eu não conhecia muito sobre a aréa. porém o li
 - Eu queria aprender mais sobre git básico, condicionais, e Arrays. Se aprofundar nesses assunto acho que seria essencial, para minha compreensão melhor. também gostaria de aprender mais sobre empregabilidade.
 - Gostaria de aprender tambem sobre comandos do VSCode, pra otimizar o meu tempo. e como organizar e focar melhor no contéudo para absorver melhor.
 
+## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
